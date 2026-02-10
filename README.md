@@ -1,4 +1,4 @@
-# Cyber Risk Analysis: Third-Party Vendor Breach
+# Cyber Risk Analysis: Scenario‑Based Threat Pathways (Privileged Account Abuse & Third‑Party Vendor Breach)
 
 **Overview:**
 
